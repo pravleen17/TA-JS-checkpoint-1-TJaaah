@@ -7,7 +7,7 @@ let i = 0;
 while (i < 3) {
   println('hi');
   i++;
-}
+}// hihihi
 ```
 
 3. Write a function named `getEvenSum` that accepts a parameter `max`. Return the sum of all even numbers. The value of max should default to 10.
